@@ -1,0 +1,7 @@
+{
+  "best_model": "Random Forest",
+  "test_samples": 1758,
+  "train_samples": 7032,
+  "accuracy": 0.9493742889647326,
+  "f1": 0.9496444706410646
+}

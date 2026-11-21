@@ -1,0 +1,16 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Plotting (used to save charts into outputs/)
+matplotlib
+seaborn
+
+# Web app
+streamlit
+
+# Saving / loading the trained model
+joblib
